@@ -66,9 +66,29 @@ li {
 #parrafo-2 p {
     display: flex;
     height: 15vh;
-
-
 }
 
-
-
+div#seccion-3 {
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    align-items: end;
+}
+div#imagenes-tipos-pop-it {
+    display: flex;
+    justify-content: space-around;
+    background: lightblue;
+}
+img  {
+    height: 200px;
+    justify-content: center;
+    display: flex;
+}
+h2 {
+    justify-content: center;
+    display: flex;
+}
+button {
+    display: flex;
+    justify-content: center;
+}
